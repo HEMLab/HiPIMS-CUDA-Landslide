@@ -1,0 +1,7 @@
+precipitation 0
+manning 0.02
+sewer_sink 0
+cumulative_depth 0
+hydraulic_conductivity 0
+capillary_head 0
+water_content_diff 0
